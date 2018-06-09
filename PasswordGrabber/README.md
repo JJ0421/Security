@@ -1,0 +1,1 @@
+Simple c# app that pulls saved chrome passwords, decrypts them, and writes to a text file
